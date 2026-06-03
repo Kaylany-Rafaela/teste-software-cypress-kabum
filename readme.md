@@ -2,9 +2,9 @@
 
 ## Autor
 
-**Nome:** SEU_NOME
+**Nome:** Kaylany Rfaela
 
-**RA:** SEU_RA
+**RA:** 2409585
 
 ## Descrição do Projeto
 
