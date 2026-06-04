@@ -2,9 +2,7 @@
 
 ## Autor
 
-**Nome:** Kaylany Rfaela
-
-**RA:** 2409585
+**Nome:** Kaylany Rafaela e Paulo Bastos
 
 ## Descrição do Projeto
 
